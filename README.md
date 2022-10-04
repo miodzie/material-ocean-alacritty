@@ -1,5 +1,5 @@
-# material-ocean-alacritty
-Material Ocean theme ported to Alacritty
+# material-oceanic-alacritty
+Material Oceanic theme ported to Alacritty
 
 I yoinked the color scheme from: [marko-cerovac/material.nvim](https://github.com/marko-cerovac/material.nvim)
 
