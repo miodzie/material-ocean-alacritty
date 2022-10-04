@@ -1,0 +1,30 @@
+# Add the following to your alacritty.yml file
+schemes:
+  # ...
+  oceanic: &oceanic
+    # Default colors
+    primary:
+      background: '0x263238'
+      foreground: '0xB0BEC5'
+    # Normal colors
+    normal:
+      black:   '0x192227'
+      red:     '0xF07178'
+      green:   '0xC3E88D'
+      yellow:  '0xFFCB6B'
+      blue:    '0x82AAFF'
+      magenta: '0xC792EA'
+      cyan:    '0x89DDFF'
+      white:   '0xEEFFFF'
+    # Bright colors
+    bright:
+      black:   '0xa1a1a1'
+      red:     '0xE53935'
+      green:   '0x91B859'
+      yellow:  '0xF6A434'
+      blue:    '0x6182B8'
+      magenta: '0x7C4DFF'
+      cyan:    '0x39ADB5'
+      white:   '0xffffff'
+# ...
+colors: *oceanic
